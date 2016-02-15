@@ -2,7 +2,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #666;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 400;
   background: #fff;
 }
@@ -30,6 +30,9 @@ ul {
 }
 ul li {
   list-style: none;
+  line-height: 50px;
+  font-size: 18px;
+  text-transform: uppercase;
 }
 a:hover,
 a:focus {
